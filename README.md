@@ -2,10 +2,9 @@
 **IngridSolAn/IngridSolAn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-<h2 align="left">Oi 👋!Meu nome Ingrid Sol'An
-
-<h2 align="left">Tenho 33 anos natural do Espirito Santo</h2>
-<h2 align="left">Formada em Analise de sistema, estudo uma pos em Fullstack</h2>
+Oi 👋!Meu nome Ingrid Sol'An
+Tenho 33 anos natural do Espirito Santo
+Formada em Analise de sistema, estudo uma pos em Fullstack.
 
 ###
 
