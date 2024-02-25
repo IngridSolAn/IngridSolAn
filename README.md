@@ -1,6 +1,6 @@
 ## Oi 👋!Meu nome Ingrid Sol'An <br>
-*Tenho 33 anos natural do Espirito Santo<br>
-*Formada em Analise de sistema, estudo uma pos em Fullstack.<br>
+Tenho 33 anos natural do Espirito Santo<br>
+Formada em Analise de sistema, estudo uma pos em Fullstack.<br>
 
 ### Formação técnica 
  🖥️ Técnico em Informática para Internet <br>
