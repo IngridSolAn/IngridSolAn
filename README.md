@@ -4,9 +4,9 @@ Formada em Analise de sistema, estudo uma pos em Fullstack.<br>
 
 ### Formação técnica
 <br> 🖥️ Pos graduação em full stack (cursando)</br>
- 🖥️SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO
- 🖥️ Técnico em Informática para Internet <br>
- 💻 Técnico em Redes de Computadores
+<br> 🖥️SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO</br>
+<br> 🖥️ Técnico em Informática para Internet </br>
+<br> 💻 Técnico em Redes de Computadores</br>
 
 ###
 
