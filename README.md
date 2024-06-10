@@ -3,7 +3,7 @@ Tenho 33 anos natural do Espirito Santo<br>
 Formada em Analise de sistema, estudo uma pos em Fullstack.<br>
 
 ### Formação técnica
- 🖥️ Pos graduação em full stack (cursando)
+<br> 🖥️ Pos graduação em full stack (cursando)</br>
  🖥️SUPERIOR DE TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO
  🖥️ Técnico em Informática para Internet <br>
  💻 Técnico em Redes de Computadores
