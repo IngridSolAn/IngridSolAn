@@ -1,5 +1,5 @@
 ## Oi 👋!Meu nome Ingrid Sol'An <br>
-Tenho 33 anos natural do Espirito Santo<br>
+Tenho 34 anos natural do Espirito Santo<br>
 Formada em Analise de sistema, estudo uma pos em Fullstack.<br>
 
 ### Formação técnica
@@ -44,8 +44,6 @@ Formada em Analise de sistema, estudo uma pos em Fullstack.<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingridsolan/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ljinforsegn@gmail.com)
 
-## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanzinho509&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
 
 ###
 
