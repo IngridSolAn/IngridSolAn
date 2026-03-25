@@ -1,4 +1,5 @@
 ## 👋 Oi! Eu sou a Ingrid Sol'An
+URL: http://ingridsolan.com.br/
 
 Sou uma **profissional de TI com 16+ anos de experiência**, atuando entre **Suporte Técnico, Backend e DevOps**, com forte vivência em **operações, automação, ambientes críticos e liderança técnica**.
 
