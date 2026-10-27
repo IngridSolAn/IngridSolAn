@@ -1,94 +1,72 @@
-## 👋 Oi! Eu sou a Ingrid Sol'An
-URL: http://ingridsolan.com.br/
+# 👋 Oi, eu sou a Ingrid Sol'An!
+<p align="left">
+  <img src="https://shields.io🚀-blueviolet?style=for-the-badge" alt="DevOps" />
+  <img src="https://shields.io🧩-blue?style=for-the-badge" alt="Backend" />
+  <img src="https://shields.io👥-brightgreen?style=for-the-badge" alt="Liderança" />
+</p>
 
-Sou uma **profissional de TI com 16+ anos de experiência**, atuando entre **Suporte Técnico, Backend e DevOps**, com forte vivência em **operações, automação, ambientes críticos e liderança técnica**.
+Profissional e estratégica com **+16 anos de experiência em TI**, transitando entre Suporte Crítico (N1 a N3), Desenvolvimento Backend e Cultura DevOps. Atualmente atuo como **Supervisora de Ticket Manager**, liderando equipes técnicas com foco em cumprimento de SLAs, automação de processos e estabilidade de ambientes globais.
 
-Minha trajetória começou no **suporte N1**, evoluiu para **N2 e N3**, e hoje atuo como **Supervisora de Ticket Manager**, liderando equipes de atendimento técnico e garantindo SLA, qualidade e estabilidade dos serviços.
-
-🎯 Natural do Espírito Santo
-🎓 Graduada em Gestão e Análise de Sistemas
-📚 Pós-graduação em Full Stack (em andamento)
-💬 *“Desistir nunca foi uma escolha.”*
-
----
-
-## 🧠 Áreas de Atuação
-
-* 🔧 Suporte Técnico N1, N2 e N3 (ambientes críticos e globais)
-* 🧩 Backend e automação de processos
-* 🚀 DevOps e operações de TI
-* ☁️ Ambientes em nuvem e containers
-* 📊 Monitoramento, análise de incidentes e melhoria contínua
-* 👥 Liderança técnica e gestão de chamados (ITIL / SLA)
+📍 Espírito Santo, Brasil | 🌐 [ingridsolan.com.br](http://ingridsolan.com.br)
 
 ---
 
-## 🎓 Formação Técnica
+### 🧠 Áreas de Atuação & Especialidades
 
-* 🖥️ **Pós-graduação em Full Stack** *(cursando)*
-* 🎓 **Superior de Tecnologia em Gestão e Análise de Sistemas**
-* 💻 **Técnico em Informática para Internet**
-* 🌐 **Técnico em Redes de Computadores**
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30"/>
-</div>
-
-**Outros conhecimentos:**
-Zabbix • Grafana • Git • Linux • CI/CD • Infra as Code • ITIL • Segurança da Informação
+- **Gestão & Liderança:** Supervisão de equipes de atendimento, garantia de SLA, ITIL, monitoramento de incidentes e melhoria contínua.
+- **DevOps & Infraestrutura:** Automação de processos, ambientes em nuvem, esteiras de CI/CD, containers e Infraestrutura como Código (IaC).
+- **Desenvolvimento Backend:** Criação de APIs, ferramentas internas e automações focadas em performance e resiliência.
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Tecnologias e Ferramentas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ingridsolan&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridsolan&layout=compact&langs_count=6&theme=dracula" height="150" />
-</div>
+<p align="left">
+  <!-- DevOps & Cloud -->
+  <img src="https://shields.io" alt="Linux" />
+  <img src="https://shields.io" alt="Docker" />
+  <img src="https://shields.io" alt="Git" />
+  
+  <!-- Monitoramento -->
+  <img src="https://shields.io" alt="Zabbix" />
+  <img src="https://shields.io" alt="Grafana" />
+</p>
 
----
-
-## 📫 Vamos conversar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ingridsolan/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/donapeppaoficial)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ljinforsegn@gmail.com)
-
----
-
-### 🚀 Profissional resiliente, focada em soluções, automação e evolução contínua.
-
-<br clear="both" />
+*(Outros conhecimentos em Cloud, CI/CD, Metodologias Ágeis, ITIL e Segurança da Informação)*
 
 ---
 
-### 🔎 Por que esse README funciona melhor
+### 🎓 Formação Acadêmica
 
-* Reflete **sua senioridade real** (não parece perfil júnior)
-* Conecta **suporte + DevOps + backend**, que é seu diferencial
-* Mostra **liderança e visão de negócio**, não só código
-* Fala direto com **recrutadores técnicos e gestores**
+- **Pós-graduação em Desenvolvimento Full Stack** (Em andamento)
+- **Superior de Tecnologia em Gestão e Análise de Sistemas**
+- **Técnico em Informática para Internet**
+- **Técnico em Redes de Computadores**
 
-👉 Próximo passo (se quiser):
+---
 
-* 📌 Criar seção **“Projetos em Destaque”**
-* 🎯 Adaptar o README para **vaga específica (Vale, DevOps, Suporte Global)**
-* 🧠 Revisar seus repositórios e dizer **quais pinam e quais esconder**
+### 📊 Estatísticas do GitHub
 
-É só dizer como você quer posicionar sua carreira agora 🔥
+<p align="center">
+  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+### 📫 Vamos nos conectar?
+
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:seu-email@gmail.com" target="_blank">
+    <img src="https://shields.io" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://shields.io" alt="Instagram" />
+  </a>
+</p>
+
+<p align="center"><i>"Desistir nunca foi uma escolha."</i></p>
+
