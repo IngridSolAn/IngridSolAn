@@ -44,6 +44,8 @@ Aqui estão os seus troféus refletindo seu engajamento em repositórios abertos
 ### 📫 Vamos nos conectar?
 
 [![LinkedIn](https://shields.io)](https://linkedin.com) [![Gmail](https://shields.io)](mailto:seu-email@gmail.com) [![Instagram](https://shields.io)](https://instagram.com)
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 
 <p align="center"><i>"Desistir nunca foi uma escolha."</i></p>
 
