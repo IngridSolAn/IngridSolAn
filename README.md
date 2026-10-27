@@ -1,9 +1,6 @@
 # 👋 Oi, eu sou a Ingrid Sol'An!
-<p align="left">
-  <img src="https://shields.io🚀-blueviolet?style=for-the-badge" alt="DevOps" />
-  <img src="https://shields.io🧩-blue?style=for-the-badge" alt="Backend" />
-  <img src="https://shields.io👥-brightgreen?style=for-the-badge" alt="Liderança" />
-</p>
+
+![DevOps](https://shields.io🚀-blueviolet?style=for-the-badge) ![Backend](https://shields.io🧩-blue?style=for-the-badge) ![Liderança Técnica](https://shields.io👥-brightgreen?style=for-the-badge)
 
 Profissional e estratégica com **+16 anos de experiência em TI**, transitando entre Suporte Crítico (N1 a N3), Desenvolvimento Backend e Cultura DevOps. Atualmente atuo como **Supervisora de Ticket Manager**, liderando equipes técnicas com foco em cumprimento de SLAs, automação de processos e estabilidade de ambientes globais.
 
@@ -21,18 +18,17 @@ Profissional e estratégica com **+16 anos de experiência em TI**, transitando 
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
-  <!-- DevOps & Cloud -->
-  <img src="https://shields.io" alt="Linux" />
-  <img src="https://shields.io" alt="Docker" />
-  <img src="https://shields.io" alt="Git" />
-  
-  <!-- Monitoramento -->
-  <img src="https://shields.io" alt="Zabbix" />
-  <img src="https://shields.io" alt="Grafana" />
-</p>
+![Linux](https://shields.io) ![Docker](https://shields.io) ![Git](https://shields.io) ![Zabbix](https://shields.io) ![Grafana](https://shields.io)
 
 *(Outros conhecimentos em Cloud, CI/CD, Metodologias Ágeis, ITIL e Segurança da Informação)*
+
+---
+
+### 🏆 Conquistas no GitHub
+
+Aqui estão os seus troféus refletindo seu engajamento em repositórios abertos:
+
+[![Troféus da Ingrid](https://vercel.app)](https://github.com)
 
 ---
 
@@ -45,28 +41,9 @@ Profissional e estratégica com **+16 anos de experiência em TI**, transitando 
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
-</p>
-
----
-
 ### 📫 Vamos nos conectar?
 
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:seu-email@gmail.com" target="_blank">
-    <img src="https://shields.io" alt="Gmail" />
-  </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://shields.io" alt="Instagram" />
-  </a>
-</p>
+[![LinkedIn](https://shields.io)](https://linkedin.com) [![Gmail](https://shields.io)](mailto:seu-email@gmail.com) [![Instagram](https://shields.io)](https://instagram.com)
 
 <p align="center"><i>"Desistir nunca foi uma escolha."</i></p>
 
