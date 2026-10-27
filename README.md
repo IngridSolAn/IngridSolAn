@@ -1,51 +1,53 @@
-# 👋 Oi, eu sou a Ingrid Sol'An!
+# Ingrid Sol'An
 
-![DevOps](https://shields.io🚀-blueviolet?style=for-the-badge) ![Backend](https://shields.io🧩-blue?style=for-the-badge) ![Liderança Técnica](https://shields.io👥-brightgreen?style=for-the-badge)
+### Ticket Manager Supervisor & Backend Specialist
 
-Profissional e estratégica com **+16 anos de experiência em TI**, transitando entre Suporte Crítico (N1 a N3), Desenvolvimento Backend e Cultura DevOps. Atualmente atuo como **Supervisora de Ticket Manager**, liderando equipes técnicas com foco em cumprimento de SLAs, automação de processos e estabilidade de ambientes globais.
-
-📍 Espírito Santo, Brasil | 🌐 [ingridsolan.com.br](http://ingridsolan.com.br)
+I am a technical specialist and manager with over 16 years of experience in the IT industry. My career evolved from Tier 1 to Tier 3 specialized technical support, and today I act as a Ticket Manager Supervisor, leading technical teams, enforcing SLAs, and optimizing critical support operations. Beyond leadership, I have a solid background in Backend development and workflow automation. I am a solution-oriented professional, focused on continuous improvement, team development, and bringing technical efficiency to business operations.
 
 ---
 
-### 🧠 Áreas de Atuação & Especialidades
+## Skills
 
-- **Gestão & Liderança:** Supervisão de equipes de atendimento, garantia de SLA, ITIL, monitoramento de incidentes e melhoria contínua.
-- **DevOps & Infraestrutura:** Automação de processos, ambientes em nuvem, esteiras de CI/CD, containers e Infraestrutura como Código (IaC).
-- **Desenvolvimento Backend:** Criação de APIs, ferramentas internas e automações focadas em performance e resiliência.
+<p align="left">
+  <!-- Backend & Core -->
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Python" />
+  &nbsp;
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Git" />
+  &nbsp;
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Linux" />
+  &nbsp;
+  <!-- Gestão e IDEs -->
+  <img src="https://jsdelivr.net" width="40" height="40" alt="VS Code" />
+</p>
 
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-![Linux](https://shields.io) ![Docker](https://shields.io) ![Git](https://shields.io) ![Zabbix](https://shields.io) ![Grafana](https://shields.io)
-
-*(Outros conhecimentos em Cloud, CI/CD, Metodologias Ágeis, ITIL e Segurança da Informação)*
-
----
-
-### 🏆 Conquistas no GitHub
-
-Aqui estão os seus troféus refletindo seu engajamento em repositórios abertos:
-
-[![Troféus da Ingrid](https://vercel.app)](https://github.com)
+*Specialized in: Incident Management (ITIL) • SLA Compliance • Backend Automations • Full Stack Development (In Progress)*
 
 ---
 
-### 🎓 Formação Acadêmica
+## Details
 
-- **Pós-graduação em Desenvolvimento Full Stack** (Em andamento)
-- **Superior de Tecnologia em Gestão e Análise de Sistemas**
-- **Técnico em Informática para Internet**
-- **Técnico em Redes de Computadores**
+<p align="left">
+  <img src="https://vercel.app" height="150" alt="Ingrid's GitHub stats" />
+  &nbsp;&nbsp;
+  <img src="https://vercel.app" height="150" alt="Top Langs" />
+</p>
 
 ---
 
-### 📫 Vamos nos conectar?
+## Meet my work on other networks
 
-[![LinkedIn](https://shields.io)](https://linkedin.com) [![Gmail](https://shields.io)](mailto:seu-email@gmail.com) [![Instagram](https://shields.io)](https://instagram.com)
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://githubusercontent.com" width="35" height="35" alt="linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://githubusercontent.com" width="35" height="35" alt="instagram" />
+  </a>
+</p>
 
+<br />
 
-<p align="center"><i>"Desistir nunca foi uma escolha."</i></p>
+> "Desistir nunca foi uma escolha."
+
 
